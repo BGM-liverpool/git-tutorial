@@ -2,3 +2,4 @@
 
   - festure-A
   - fix-B
+  - feature-C
