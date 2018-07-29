@@ -1,9 +1,9 @@
-# Git tutorial1
 
-   - feature-A
+
+   -feature-A
    -fix-B
    -feature-C
    -feature-E
-   -pull-request3
+   -pull-request3-merge
 
 
