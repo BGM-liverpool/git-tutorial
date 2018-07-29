@@ -4,3 +4,4 @@
    -fix-B
    -feature-C
    -pull-request4
+   -feature-E
